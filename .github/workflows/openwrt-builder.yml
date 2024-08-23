@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
 
 env:
-  REPO_URL: https://github.com/lianzeliu/King
+  REPO_URL: https://github.com/padavanonly/immortalwrt-mt798x/tree/openwrt-21.02
   REPO_BRANCH: main
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config
